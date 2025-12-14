@@ -2,4 +2,4 @@ function Home() {
   return <h1>Teste</h1>;
 }
 
-export default teste;
+export default Home;
